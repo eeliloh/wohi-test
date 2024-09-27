@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(15, 15, 15);
+    --bs-body-font-family: var(--bs-font-monospace);
+    --bs-body-line-height: 1.4;
+    color: rgba(248, 245, 245, 0.938);
+    border-style: solid;
+    border-width: medium;
+    border-color: dimgray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    margin-left: 80px;
+
+}
+
+a{
+    color: rgb(209, 231, 245);
+}
+button{
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(229, 227, 249);
+}
+.image{
+    max-width: auto;
+    height: auto;
+    
+}
+    
+
