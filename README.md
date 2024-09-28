@@ -1,2 +1,2 @@
 # wohi-test
-Trying out git on web programming course. Eeliloh.
+Trying out git on web programming course.
